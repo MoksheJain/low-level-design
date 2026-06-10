@@ -1,6 +1,5 @@
 package elevator;
 import java.util.*;
-import java.util.Locale.IsoCountryCode;
 
 enum Direction {
     UP, 
