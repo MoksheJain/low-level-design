@@ -1,5 +1,7 @@
 import java.util.List;
 
+import splitwise.User;
+
 class User {
     private String name;
     private Long id;
